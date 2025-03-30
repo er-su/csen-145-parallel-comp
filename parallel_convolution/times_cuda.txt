@@ -1,0 +1,15 @@
+Finish preprocess, offloading batch size of: 512 to GPU
+Convolution finish
+Finish preprocess, offloading batch size of: 512 to GPU
+Convolution finish
+Finish preprocess, offloading batch size of: 512 to GPU
+Convolution finish
+Finish preprocess, offloading batch size of: 512 to GPU
+Convolution finish
+Finish preprocess, offloading batch size of: 512 to GPU
+Convolution finish
+Finish preprocess, offloading batch size of: 152 to GPU
+Convolution finish
+Total execution time: 65546 ms
+Total convolution time: 210 ms
+Number of images processed: 2712

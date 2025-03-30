@@ -1,0 +1,3 @@
+Total execution time: 16188 ms
+Total convolution time: 989 ms
+Number of images processed: 2712

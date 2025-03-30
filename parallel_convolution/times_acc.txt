@@ -1,0 +1,51 @@
+Images w dimensions 1225x1088 with count: 494
+Images w dimensions 1230x1088 with count: 1518
+Images w dimensions 1085x1088 with count: 300
+Images w dimensions 1245x1088 with count: 400
+Sending dimensions of 1245x1088 with count of 64
+Sending dimensions of 1245x1088 with count of 64
+Sending dimensions of 1245x1088 with count of 64
+Sending dimensions of 1245x1088 with count of 64
+Sending dimensions of 1245x1088 with count of 64
+Sending dimensions of 1245x1088 with count of 64
+Sending dimensions of 1245x1088 with count of 16
+Sending dimensions of 1085x1088 with count of 64
+Sending dimensions of 1085x1088 with count of 64
+Sending dimensions of 1085x1088 with count of 64
+Sending dimensions of 1085x1088 with count of 64
+Sending dimensions of 1085x1088 with count of 44
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 64
+Sending dimensions of 1230x1088 with count of 46
+Sending dimensions of 1225x1088 with count of 64
+Sending dimensions of 1225x1088 with count of 64
+Sending dimensions of 1225x1088 with count of 64
+Sending dimensions of 1225x1088 with count of 64
+Sending dimensions of 1225x1088 with count of 64
+Sending dimensions of 1225x1088 with count of 64
+Sending dimensions of 1225x1088 with count of 64
+Sending dimensions of 1225x1088 with count of 46
+Total execution time: 73003 ms
+Total convolution time: 2487 ms
+Number of images processed: 2712

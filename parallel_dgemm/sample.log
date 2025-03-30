@@ -1,0 +1,90 @@
+Running with threads: 1
+Block: (Dimensions: 1000x1000 * 1000x1000) - Time: 584893 microseconds
+Tile: (Dimensions: 1000x1000 * 1000x1000) - Time:  529694 microseconds
+Running with threads: 2
+Block: (Dimensions: 1000x1000 * 1000x1000) - Time: 313197 microseconds
+Tile: (Dimensions: 1000x1000 * 1000x1000) - Time:  268929 microseconds
+Running with threads: 4
+Block: (Dimensions: 1000x1000 * 1000x1000) - Time: 184765 microseconds
+Tile: (Dimensions: 1000x1000 * 1000x1000) - Time:  158570 microseconds
+Running with threads: 8
+Block: (Dimensions: 1000x1000 * 1000x1000) - Time: 87037.3 microseconds
+Tile: (Dimensions: 1000x1000 * 1000x1000) - Time:  77310.9 microseconds
+Running with threads: 12
+Block: (Dimensions: 1000x1000 * 1000x1000) - Time: 60664.2 microseconds
+Tile: (Dimensions: 1000x1000 * 1000x1000) - Time:  54173.8 microseconds
+Running with threads: 14
+Block: (Dimensions: 1000x1000 * 1000x1000) - Time: 55532 microseconds
+Tile: (Dimensions: 1000x1000 * 1000x1000) - Time:  46744.6 microseconds
+Running with threads: 16
+Block: (Dimensions: 1000x1000 * 1000x1000) - Time: 79143.3 microseconds
+Tile: (Dimensions: 1000x1000 * 1000x1000) - Time:  48819.4 microseconds
+Running with threads: 20
+Block: (Dimensions: 1000x1000 * 1000x1000) - Time: 293260 microseconds
+Tile: (Dimensions: 1000x1000 * 1000x1000) - Time:  50337.3 microseconds
+Running with threads: 24
+Block: (Dimensions: 1000x1000 * 1000x1000) - Time: 62969.2 microseconds
+Tile: (Dimensions: 1000x1000 * 1000x1000) - Time:  42778.9 microseconds
+Running with threads: 28
+Block: (Dimensions: 1000x1000 * 1000x1000) - Time: 56090.2 microseconds
+Tile: (Dimensions: 1000x1000 * 1000x1000) - Time:  40371.6 microseconds
+Running with threads: 1
+Block: (Dimensions: 1000x2000 * 2000x5000) - Time: 9.85068e+06 microseconds
+Tile: (Dimensions: 1000x2000 * 2000x5000) - Time:  5.2069e+06 microseconds
+Running with threads: 2
+Block: (Dimensions: 1000x2000 * 2000x5000) - Time: 7.47885e+06 microseconds
+Tile: (Dimensions: 1000x2000 * 2000x5000) - Time:  2.62538e+06 microseconds
+Running with threads: 4
+Block: (Dimensions: 1000x2000 * 2000x5000) - Time: 3.33637e+06 microseconds
+Tile: (Dimensions: 1000x2000 * 2000x5000) - Time:  1.42921e+06 microseconds
+Running with threads: 8
+Block: (Dimensions: 1000x2000 * 2000x5000) - Time: 1.91184e+06 microseconds
+Tile: (Dimensions: 1000x2000 * 2000x5000) - Time:  743936 microseconds
+Running with threads: 12
+Block: (Dimensions: 1000x2000 * 2000x5000) - Time: 1.37437e+06 microseconds
+Tile: (Dimensions: 1000x2000 * 2000x5000) - Time:  499210 microseconds
+Running with threads: 14
+Block: (Dimensions: 1000x2000 * 2000x5000) - Time: 1.13143e+06 microseconds
+Tile: (Dimensions: 1000x2000 * 2000x5000) - Time:  441550 microseconds
+Running with threads: 16
+Block: (Dimensions: 1000x2000 * 2000x5000) - Time: 1.0464e+06 microseconds
+Tile: (Dimensions: 1000x2000 * 2000x5000) - Time:  427207 microseconds
+Running with threads: 20
+Block: (Dimensions: 1000x2000 * 2000x5000) - Time: 782347 microseconds
+Tile: (Dimensions: 1000x2000 * 2000x5000) - Time:  405856 microseconds
+Running with threads: 24
+Block: (Dimensions: 1000x2000 * 2000x5000) - Time: 653950 microseconds
+Tile: (Dimensions: 1000x2000 * 2000x5000) - Time:  377665 microseconds
+Running with threads: 28
+Block: (Dimensions: 1000x2000 * 2000x5000) - Time: 860041 microseconds
+Tile: (Dimensions: 1000x2000 * 2000x5000) - Time:  355864 microseconds
+Running with threads: 1
+Block: (Dimensions: 9000x2500 * 2500x3750) - Time: 1.37687e+08 microseconds
+Tile: (Dimensions: 9000x2500 * 2500x3750) - Time:  4.46359e+07 microseconds
+Running with threads: 2
+Block: (Dimensions: 9000x2500 * 2500x3750) - Time: 9.02921e+07 microseconds
+Tile: (Dimensions: 9000x2500 * 2500x3750) - Time:  2.24682e+07 microseconds
+Running with threads: 4
+Block: (Dimensions: 9000x2500 * 2500x3750) - Time: 3.98248e+07 microseconds
+Tile: (Dimensions: 9000x2500 * 2500x3750) - Time:  1.17122e+07 microseconds
+Running with threads: 8
+Block: (Dimensions: 9000x2500 * 2500x3750) - Time: 2.3693e+07 microseconds
+Tile: (Dimensions: 9000x2500 * 2500x3750) - Time:  6.3023e+06 microseconds
+Running with threads: 12
+Block: (Dimensions: 9000x2500 * 2500x3750) - Time: 1.61697e+07 microseconds
+Tile: (Dimensions: 9000x2500 * 2500x3750) - Time:  4.20855e+06 microseconds
+Running with threads: 14
+Block: (Dimensions: 9000x2500 * 2500x3750) - Time: 1.44165e+07 microseconds
+Tile: (Dimensions: 9000x2500 * 2500x3750) - Time:  4.14656e+06 microseconds
+Running with threads: 16
+Block: (Dimensions: 9000x2500 * 2500x3750) - Time: 1.22958e+07 microseconds
+Tile: (Dimensions: 9000x2500 * 2500x3750) - Time:  3.54729e+06 microseconds
+Running with threads: 20
+Block: (Dimensions: 9000x2500 * 2500x3750) - Time: 9.35235e+06 microseconds
+Tile: (Dimensions: 9000x2500 * 2500x3750) - Time:  3.38862e+06 microseconds
+Running with threads: 24
+Block: (Dimensions: 9000x2500 * 2500x3750) - Time: 8.22478e+06 microseconds
+Tile: (Dimensions: 9000x2500 * 2500x3750) - Time:  3.1762e+06 microseconds
+Running with threads: 28
+Block: (Dimensions: 9000x2500 * 2500x3750) - Time: 1.02383e+07 microseconds
+Tile: (Dimensions: 9000x2500 * 2500x3750) - Time:  2.94646e+06 microseconds
