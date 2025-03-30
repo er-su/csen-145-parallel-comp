@@ -1,5 +1,4 @@
-// Erick Sun
-// Student ID: 1638743
+// er-su
 // CSEN 145 Fa 2024
 // The purpose of this program is to time and compare the speed of dense matrix multiplication
 // approaches. The first approach is parallelized block multiplication while the second approach
